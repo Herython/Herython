@@ -3,7 +3,7 @@ A student in DLUT,China
 - 👀 I’m interested in ballgames etc.
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me heyuxuan@mail.dlut.edu.cn
 
 <!---
 Herython/Herython is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
