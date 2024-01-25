@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Herython
 - 📚 Now Studying in Dalian University of Technology, majored in Software Engineering
-- 🌱 I’m currently learning machine learning, computing intelligence etc.
-- 📫 How to reach me herythonprc@gmail.com
+- 🌱 I’m currently studying machine learning, interested in AIGC, image fusion.
+- 📫 Reach me @ herythonprc@gmail.com
 
 <!---
 - 👀 I’m interested in table tennis etc.
