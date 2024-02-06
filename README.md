@@ -7,8 +7,6 @@
 
 ![Contribution Status](https://github-readme-activity-graph.vercel.app/graph?username=Herython&theme=react-dark&bg_color=20232a&hide_border=true)
 
-
-
 <!---
 - 👀 I’m interested in table tennis etc.
 
