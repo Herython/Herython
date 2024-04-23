@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Herython
 - 📚 Now Studying in Dalian University of Technology, majored in Software Engineering
 - 🌱 I’m currently studying machine learning, interested in AIGC, image fusion.
-- 📫 Reach me @ herythonprc@gmail.com
+- 📫 Reach me @ herythonprc@gmail.com heyuxuan@mail.dlut.edu.cn
 
 ![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Herython&theme=dark&layout=compact)
 
